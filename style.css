@@ -39,7 +39,7 @@ body {
 .container{
   background:var(--White);
   width:70vw;
-  height:45vh;
+  height:max-content;
   padding:40px;
   border-radius:20px;
   border-bottom-right-radius:150px;
